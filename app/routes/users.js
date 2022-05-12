@@ -40,5 +40,4 @@ router.post("/login", async (req, res) => {
   }
 });
 
-//coment
 module.exports = router;
